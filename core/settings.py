@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-*x%a0$3_o*^34q76rzkznepl3li(r27#%pypykl)0jfp5f_sq9
 DEBUG = True
 
 
-ALLOWED_HOSTS = ["ulf-project.onrender.com",]
+ALLOWED_HOSTS = ["*",]
 
 
 # Application definition
